@@ -1,9 +1,9 @@
 # TheSiteRank
 ```python
-TheSiteRank SiteList Grabber
-Easy To Use
-Coded In Python3
+[•] TheSiteRank SiteList Grabber
+[•] Easy To Use
+[•] Coded In Python3
 ```
 
-[![asciicast](https://asciinema.org/a/Gzs9FkYiLENfkK1dJz6Aqi0pn.svg)](https://asciinema.org/a/Gzs9FkYiLENfkK1dJz6Aqi0pn)
+[![asciicast](https://asciinema.org/a/rZ8OK3Cj3AXw2ST35usZ2BV6s.svg)](https://asciinema.org/a/rZ8OK3Cj3AXw2ST35usZ2BV6s)
 
