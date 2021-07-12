@@ -1,3 +1,5 @@
+#jangan lupakan author kalo mau recode :)
+
 import threading
 import requests
 from bs4 import BeautifulSoup
