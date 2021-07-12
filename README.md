@@ -1,5 +1,5 @@
 # TheSiteRank
-```
+```python
 TheSiteRank SiteList Grabber
 Easy To Use
 Coded In Python3
