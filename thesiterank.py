@@ -41,7 +41,7 @@ def final(source):
         for li in parsing:
             try:
                 pisah = li.find_all("li")
-                domain = pisah[0].find("a").text.strip()
+                domain = pisah[0].find("a")["alt"]
                 waktu = pisah[1].text
             except (ValueError, IndexError):
                 pass
